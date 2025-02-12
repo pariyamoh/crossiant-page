@@ -14,4 +14,11 @@ h2{
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.pic{
+display: flex;        border-radius: 5px;
+        font-size: 16px;
+        margin: auto;
+
 }
